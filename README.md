@@ -41,6 +41,10 @@ Me muevo entre el desarrollo de software, la ciberseguridad y el análisis de da
 
 Proyecto de grado del Sena. Plataforma web Full-Stack de logística para empresa ficticia Kizuna Logística S.A.S.
 
+### [dev-profile-setup](https://github.com/Ze-ni-tsu/dev-profile-setup)
+
+Repositorio de prácticas personales, educación autodidacta guiada por Gemini IA.
+
 ## 📜 Certificaciones & Microcredenciales
 
 ### 🛡️🤖 IBM
