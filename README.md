@@ -41,10 +41,6 @@ Me muevo entre el desarrollo de software, la ciberseguridad y el análisis de da
 
 Proyecto de grado del Sena. Plataforma web Full-Stack de logística para empresa ficticia Kizuna Logística S.A.S.
 
-### [Libro Contable](https://github.com/Ze-ni-tsu/Proyecto-Libro-Contable)
-
-Proyecto personal web donde se busca llevar la contabilidad personal de manera detallada y visual.
-
 ## 📜 Certificaciones & Microcredenciales
 
 ### 🛡️🤖 IBM
