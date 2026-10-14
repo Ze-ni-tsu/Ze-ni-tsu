@@ -1,9 +1,9 @@
-# ¡Hola! Soy Alejandro Meyer 👋 🤖
+# ¡Hola! Soy David Alejandro Meyer Romero 👋 🤖
 
 ```txt
-       ┌──────────────────────────────────────────────────────────┐
-       │  Estudiante Tecnólogo ADSO | Apasionado por la Robótica  │
-       └──────────────────────────────────────────────────────────┘
+       ┌────────────────────────────┐
+       │  Estudiante Tecnólogo ADSO │
+       └────────────────────────────┘
 ```
 
 ## Bienvenido/a a mi perfil
@@ -12,7 +12,7 @@ Soy estudiante del Tecnologo en Análisis y Desarrollo de Software en el SENA, c
 
 Cuento 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco comprobables a través de credly.
 
-## 🎯 Mi Hoja de Ruta (Roadmap)
+## 🎯 Mi Ruta Académica
 
 | En proceso (@) / Completado (x) | Fase | Estudio | Institución | País |
 | :---: | :---: | :---: | :---: | :---: |
