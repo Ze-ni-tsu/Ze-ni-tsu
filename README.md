@@ -1,16 +1,16 @@
 # ¡Hola! Soy Alejandro Meyer 👋 🤖
 
 ```txt
-       ┌────────────────────────────────────────────────┐
-       │  Estudiante ADSO | Apasionado por la Robótica  │
-       └────────────────────────────────────────────────┘
+       ┌──────────────────────────────────────────────────────────┐
+       │  Estudiante Tecnólogo ADSO | Apasionado por la Robótica  │
+       └──────────────────────────────────────────────────────────┘
 ```
 
 ## Bienvenido/a a mi perfil
 
-Me muevo entre el desarrollo de software, la ciberseguridad y el análisis de datos, pero mi gran objetivo es la convergencia entre el código y el mundo físico:
+Soy estudiante del Tecnologo en Análisis y Desarrollo de Software en el SENA, con experiencia atendiendo usuarios de una plataforma transaccional de seguridad social en entorno BPO.
 
-**la Ingeniería Mecatrónica y la Robótica**.
+Cuento 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco comprobables a través de credly.
 
 ## 🎯 Mi Hoja de Ruta (Roadmap)
 
@@ -18,51 +18,10 @@ Me muevo entre el desarrollo de software, la ciberseguridad y el análisis de da
 | :---: | :---: | :---: | :---: | :---: |
 | [x] | Fase 1 | Fundamentos de Ciberseguridad & SecOps | IBM & Cisco | Colombia |
 | [@] | Fase 2 | Tecnología en ADSO | SENA | Colombia |
-| [ ] | Fase 3 | Ingeniería Mecatrónica | | |
-| [ ] | Fase 4 | Maestría en Robótica | | |
 
-## 🛠️ Tech Stack & Herramientas
+## 👨🏻‍💻 CV Digital
 
-### Lenguajes & Bases de Datos
-
-`Python` `SQL` `Bash`
-
-### Ciberseguridad & Redes
-
-`SecOps` `Incident Response` `Network Security` `Cloud Security`
-
-### Herramientas & Control de Versiones
-
-`Git` `GitHub` `VS Code` `Linux` `Excel`
-
-## 🚀 Proyectos Destacados
-
-### [Eien System](https://github.com/Ze-ni-tsu/Proyecto-Eien-System)
-
-Proyecto de grado del Sena. Plataforma web Full-Stack de logística para empresa ficticia Kizuna Logística S.A.S.
-
-### [dev-profile-setup](https://github.com/Ze-ni-tsu/dev-profile-setup)
-
-Repositorio de prácticas personales, educación autodidacta guiada por Gemini IA.
-
-## 📜 Certificaciones & Microcredenciales
-
-### 🛡️🤖 IBM
-
-* Incident Response, Security Operations, Cloud & Network Security, Vulnerability Mgmt.
-* AI Fundamentals & Data Fundamentals.
-
-### 🐍 Cisco
-
-* Python Essentials 1 & Intro to Cybersecurity.
-
-## 📬 Conectemos
-
-[LinkedIn](https://www.linkedin.com/in/meyer-alejandro/)
-
-[Credly](https://www.credly.com/users/david-meyer.bdc006f0)
-
-[Email](mailto:alemey_robots@outlook.com)
+Para mayor información, conocerme mejor y contactarme ingresa a mi CV Digital:
 
 ```txt
 ⚡ "Uniendo software, datos y hardware, un paso a la vez."
