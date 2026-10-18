@@ -21,7 +21,7 @@ Cuento 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco comprobables
 
 ## 👨🏻‍💻 CV Digital
 
-Para mayor información, conocerme mejor y contactarme ingresa a mi CV Digital:
+Para mayor información, conocerme mejor y contactarme ingresa a mi [CV Digital]()
 
 ```txt
 ⚡ "Uniendo software, datos y hardware, un paso a la vez."
