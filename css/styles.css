@@ -464,15 +464,6 @@ a{color:inherit;}
 .print-btn:focus-visible,a:focus-visible{outline:3px solid var(--orange);outline-offset:2px;}
 
 
-.lang-btn{
-  font:600 .8rem var(--font-mono);letter-spacing:.5px;color:var(--cyan);cursor:pointer;
-  background:var(--ink-800);border:1px solid var(--cyan-line);border-radius:999px;padding:10px 14px;
-  box-shadow:0 8px 24px rgba(0,0,0,.45);transition:background .15s,transform .15s;
-}
-.lang-btn:hover{background:var(--ink-700);transform:translateY(-1px);}
-.lang-btn:focus-visible{outline:3px solid var(--orange);outline-offset:2px;}
-.lang-btn b{color:var(--on-dark-3);font-weight:600;}.lang-btn b.on{color:var(--cyan);}
-.lang-btn i{font-style:normal;color:var(--on-dark-3);margin:0 3px;}
 
 /* ═════════ IMPRESIÓN: hoja clara para ahorrar tinta (cabecera y tarjetas siguen oscuras) ═════════ */
 @media print{
