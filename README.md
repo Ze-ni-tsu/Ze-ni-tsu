@@ -4,18 +4,29 @@
             🎓: Estudiante Tecnólogo ADSO
 ```
 
-## Bienvenido/a a mi perfil
+## 🎓 Bienvenido/a a mi perfil
 
-Soy estudiante del Tecnologo en Análisis y Desarrollo de Software en el SENA, con experiencia atendiendo usuarios de una plataforma transaccional de seguridad social en entorno BPO.
+Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA, Colombia.
 
-Cuento 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco comprobables a través de credly.
+### Aspiraciones
+
+* Estudiar **Ingeniería Mecatrónica**.
+* Obtener el nivel **B2/C1** en **Inglés**.
+* Obtener el nivel **N2/N1** en **Japonés**.
+* Mudarme, trabajar y vivir en **Japón**.
+
+### Idiomas
+
+* **Español**: Nativo
+* **Inglés**: A2
+* **Japonés**: N5
 
 ## 🎯 Mi Ruta Académica
 
 | En proceso (@) / Completado (x) | Fase | Estudio | Institución | País |
 | :---: | :---: | :---: | :---: | :---: |
 | [x] | Fase 1 | Fundamentos de Ciberseguridad & SecOps | IBM & Cisco | Colombia |
-| [@] | Fase 2 | Tecnología en ADSO | SENA | Colombia |
+| [@] | Fase 2 | Tecnólogo ADSO | SENA | Colombia |
 | [@] | Fase 3 | Pre-Mecatrónica | Autodidacta | Colombia |
 
 ## Index Proyectos
