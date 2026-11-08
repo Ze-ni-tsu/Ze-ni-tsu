@@ -1,7 +1,7 @@
 # ¡Hola! Soy David Alejandro Meyer Romero 👋 🤖
 
 ```txt
-            🎓: Estudiante Tecnólogo ADSO
+🎓 Estudiante Tecnólogo ADSO 🎓
 ```
 
 ## 🎓 Bienvenido/a a mi perfil
@@ -43,5 +43,5 @@ Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA, 
 Para mayor información, conocerme mejor y contactarme ingresa a mi [CV Digital](https://ze-ni-tsu.github.io/Ze-ni-tsu/)
 
 ```txt
-⚡ "Uniendo software, datos y hardware, un paso a la vez."
+⚡ "Uniendo software, datos y hardware, un paso a la vez." ⚡
 ```
