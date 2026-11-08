@@ -1,9 +1,7 @@
 # ¡Hola! Soy David Alejandro Meyer Romero 👋 🤖
 
 ```txt
-       ┌────────────────────────────┐
-       │  Estudiante Tecnólogo ADSO │
-       └────────────────────────────┘
+            🎓: Estudiante Tecnólogo ADSO
 ```
 
 ## Bienvenido/a a mi perfil
@@ -18,6 +16,16 @@ Cuento 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco comprobables
 | :---: | :---: | :---: | :---: | :---: |
 | [x] | Fase 1 | Fundamentos de Ciberseguridad & SecOps | IBM & Cisco | Colombia |
 | [@] | Fase 2 | Tecnología en ADSO | SENA | Colombia |
+| [@] | Fase 3 | Pre-Mecatrónica | Autodidacta | Colombia |
+
+## Index Proyectos
+
+| **Nombre Index** | **Propósito** | **URL** |
+| :---: | :---: | :---: |
+| index_formal_study | Evidencias, tareas, documentos, entre otros, solicitados dentro un programa educativo. | [index_formal_study](https://github.com/Ze-ni-tsu/index_formal_study) |
+| index_formal_projects | Proyectos educativos, sponsor, colaborativos. | [index_formal_projects](https://github.com/Ze-ni-tsu/index_formal_projects) |
+| index_informal_projects | Proyectos autodidactas. | [index_informal_projects](https://github.com/Ze-ni-tsu/index_informal_projects) |
+| index_dummy_projects | Proyectos sin ningún propósito o finalidad específico o claro. | [index_dummy_projects](https://github.com/Ze-ni-tsu/index_dummy_projects) |
 
 ## 👨🏻‍💻 CV Digital
 
