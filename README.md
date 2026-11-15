@@ -1,12 +1,14 @@
-# ¡Hola! Soy David Alejandro Meyer Romero 👋 🤖
+# 👋 ¡Hola! Soy David Alejandro Meyer Romero 🤖
 
 ```txt
 🎓 Estudiante Tecnólogo ADSO 🎓
 ```
 
-## 🎓 Bienvenido/a a mi perfil
+## Bienvenido/a a mi perfil
 
-Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software en el SENA, Colombia.
+Soy estudiante del **Tecnólogo en Análisis y Desarrollo de Software** en el SENA, Colombia.
+
+Actualmente estoy en la etapa lectiva y me encuentro buscando prácticas para iniciar la etapa productiva el **30/06/2027**.
 
 ### Aspiraciones
 
