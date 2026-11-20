@@ -42,7 +42,7 @@ Actualmente estoy en la etapa lectiva y me encuentro buscando prácticas para in
 
 | **Nombre Index** | **Propósito** | **URL** |
 | :---: | :---: | :---: |
-| index_formal_study | Evidencias, tareas, documentos, entre otros, solicitados dentro un programa educativo. | [index_formal_study](https://github.com/Ze-ni-tsu/index_formal_study) |
+| index_formal_study | Evidencias, tareas, documentos, entre otros, solicitados dentro de un programa educativo. | [index_formal_study](https://github.com/Ze-ni-tsu/index_formal_study) |
 | index_formal_projects | Proyectos educativos, sponsor, colaborativos. | [index_formal_projects](https://github.com/Ze-ni-tsu/index_formal_projects) |
 | index_informal_projects | Proyectos autodidactas. | [index_informal_projects](https://github.com/Ze-ni-tsu/index_informal_projects) |
 | index_dummy_projects | Proyectos sin ningún propósito o finalidad específico o claro. | [index_dummy_projects](https://github.com/Ze-ni-tsu/index_dummy_projects) |
