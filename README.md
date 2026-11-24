@@ -14,14 +14,14 @@ Actualmente estoy en la etapa lectiva y me encuentro buscando prácticas para in
 
 * Estudiar **Ingeniería Mecatrónica**.
 * Obtener el nivel **B2/C1** en **Inglés**.
-* Obtener el nivel **N2/N1** en **Japonés**.
-* Mudarme, trabajar y vivir en **Japón**.
+<!-- * Obtener el nivel **N2/N1** en **Japonés**. -->
+<!-- * Mudarme, trabajar y vivir en **Japón**. -->
 
 ### Idiomas
 
 * **Español**: Nativo
 * **Inglés**: A2
-* **Japonés**: N5
+<!-- * **Japonés**: N5 -->
 
 ## 🎯 Mi Ruta Académica
 
