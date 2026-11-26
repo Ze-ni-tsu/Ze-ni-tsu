@@ -34,6 +34,7 @@ Actualmente estoy en la etapa lectiva y me encuentro buscando prácticas para in
 ## Tecnologías Más Usadas
 
 * Python
+* SQL
 * Git
 * GitHub
 * VS Code
