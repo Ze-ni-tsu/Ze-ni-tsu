@@ -56,7 +56,7 @@ Para mayor información y conocerme mejor, ingresa a mi [CV Digital](https://ze-
 
 | Plataforma | Dirección |
 | :---: | :---: |
-| Correo Electrónico | [Outlook](alemey_robots@outlook.com) |
+| Correo Electrónico | [Outlook](mailto:alemey_robots@outlook.com) |
 
 ```txt
 ⚡ "Uniendo software, datos y hardware, un paso a la vez." ⚡
